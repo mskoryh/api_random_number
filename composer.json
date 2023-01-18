@@ -1,0 +1,11 @@
+{
+    "name": "mskoryh/api_generate",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "Controllers/",
+            "Resource\\": "Resources/",
+            "App\\": "src/"
+        }
+    }
+}
